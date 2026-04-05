@@ -21,7 +21,7 @@ The final optimized model (MentalBERT + augmentation + tuning) achieved a **macr
 │   └── Modeling.ipynb                         # Full experimental pipeline (Google Colab)
 │
 ├── paper/
-│   └── BERT_Mental_Health_Minority_Class_Detection.pdf
+│   └── Improving_Multi-Class_Mental_Health_Text_Classification_with_BERT.pdf
 │
 ├── results/
 │   ├── MacroF1_and_Accuracy_Progression.png   # Model comparison bar chart
