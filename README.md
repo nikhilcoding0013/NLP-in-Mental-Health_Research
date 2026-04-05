@@ -150,9 +150,7 @@ See the `results/` folder for:
 If you reference this work, please cite:
 
 ```
-Trivedi, Nikhil. "Improving Multi-Class Mental Health Text Classification with BERT:
-A Comparison of Model Optimization Techniques with a Focus on Minority Class Detection."
-Independent Research, March 2026.
+Trivedi, Nikhil. "Improving Multi-Class Mental Health Text Classification with BERT: A Comparison of Model Optimization Techniques with a Focus on Minority Class Detection." Zenodo, April 2026. doi.org/10.5281/zenodo.19432858
 ```
 
 ---
